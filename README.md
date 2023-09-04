@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AfterJohn94
+- 👋 Hi, I’m Juan
 - 👀 I’m interested in Backend development
 - 🌱 I’m currently learning Spring Boot
 - 💞️ I’m looking to collaborate on some good project
